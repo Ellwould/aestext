@@ -1,5 +1,5 @@
 # aestext
-Go Package with string encryption and decryption functions, utilises AES-GCM.
+Go Package with string encryption and decryption functions, utilises AES-GCM (Advanced Encryption Standard) (Galois/Counter Mode)
 
 To download aestext: go get github.com/ellwould/aestext
 
