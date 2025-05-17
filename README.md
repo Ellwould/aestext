@@ -1,7 +1,7 @@
 # aestext
 Go Package with string encryption and decryption functions, utilises AES-GCM.
 
-To download aestext: go get github.com/Ellwould/aestext
+To download aestext: go get github.com/ellwould/aestext
 
 ---
 
